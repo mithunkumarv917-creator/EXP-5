@@ -48,6 +48,20 @@ PRECAUTIONS:
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
+LINE REGULATION
+![526251328-3fe5536e-fdcc-4927-b3b8-f4bf87b6a2c2](https://github.com/user-attachments/assets/2a8c4364-0226-45f1-bef3-360046da0f8c)
+LOAD REGULATION:
+![526251324-cf773b0e-08f2-4758-b5c1-a8d8796bb2c9](https://github.com/user-attachments/assets/d74dec3b-809f-424a-9f1f-729001da1f6e)
+REGULATION CHARACTERISTICS:
+![526251406-dccf6b84-00ca-48c2-af00-6093de25a99a](https://github.com/user-attachments/assets/ca296e7e-bdc4-41f0-a642-b8bea77398a7)
+
+PRECAUTIONS:
+1.While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
+
+2.Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
+
+3.Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
